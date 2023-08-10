@@ -12,6 +12,6 @@
 
 <h2>🌐 Connect with me:</h2>
 
-[<img align="left" alt="Caitlin | LinkedIn" width="22px" src="![Limav-Flat-Gradient-Social-Linkedin 512](https://github.com/caitshelby/caitshelby/assets/67981587/8f8911e8-bdac-4faf-95aa-4123e79277a5)" />][linkedin]
+[<img align="left" alt="Caitlin | LinkedIn" width="22px" src=![Limav-Flat-Gradient-Social-Linkedin 512](https://github.com/caitshelby/caitshelby/assets/67981587/8f8911e8-bdac-4faf-95aa-4123e79277a5) />][linkedin]
 
 [linkedin]: https://linkedin.com/in/caitshelby7794
